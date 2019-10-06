@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.1.0...v1.1.1) (2019-10-06)
+
+
+### Bug Fixes
+
+* test fix ([6428d55](https://github.com/LonnyGomes/conventional-commits-poc/commit/6428d55)), closes [#1](https://github.com/LonnyGomes/conventional-commits-poc/issues/1)
+
 # [1.1.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.7...v1.1.0) (2019-10-06)
 
 
