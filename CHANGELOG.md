@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.3...v1.0.4) (2019-10-06)
+
+
+### Bug Fixes
+
+* add standard-version CHANGELOG ([1e1e29d](https://github.com/LonnyGomes/conventional-commits-poc/commit/1e1e29d))
+
 ### [1.0.2](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.3...v1.0.2) (2019-10-06)
 
 
