@@ -1,4 +1,4 @@
-# conventional-commits-poc
+# Conventional Commits POC
 
 Testing conventional commits tooling
 
