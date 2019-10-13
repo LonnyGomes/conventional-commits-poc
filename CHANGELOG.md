@@ -1,41 +1,21 @@
-## [1.1.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.1.0...v1.1.1) (2019-10-06)
+Sample Title
 
+## [1.2.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.2.0...v1.2.1) (2019-10-13)
 
-### Bug Fixes
-
-* test fix ([6428d55](https://github.com/LonnyGomes/conventional-commits-poc/commit/6428d55)), closes [#1](https://github.com/LonnyGomes/conventional-commits-poc/issues/1)
-
-# [1.1.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.7...v1.1.0) (2019-10-06)
+# [1.2.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.1.8...v1.2.0) (2019-10-13)
 
 
 ### Features
 
-* add @semantic-release/git dependency ([542dd6f](https://github.com/LonnyGomes/conventional-commits-poc/commit/542dd6f))
+* **scope:** test commit ([6618b62](https://github.com/LonnyGomes/conventional-commits-poc/commit/6618b62))
 
-## [1.0.7](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.6...v1.0.7) (2019-10-06)
+## [1.1.8](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.1.7...v1.1.8) (2019-10-13)
+
+## [1.1.7](https:/Users/carpelucem/code/repos/conventional-commits-poc-bare/compare/v1.1.6...v1.1.7) (2019-10-07)
 
 
-### Bug Fixes
+### Performance Improvements
 
-* add @semantic-release/changelog dependency ([13236b4](https://github.com/LonnyGomes/conventional-commits-poc/commit/13236b4))
+* test again ([51f5031](https:/Users/carpelucem/code/repos/conventional-commits-poc-bare/commit/51f5031))
 
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
-Update URL
-
-### [1.0.5](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.4...v1.0.5) (2019-10-06)
-
-### [1.0.4](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.3...v1.0.4) (2019-10-06)
-
-### Bug Fixes
-
--   add standard-version CHANGELOG ([1e1e29d](https://github.com/LonnyGomes/conventional-commits-poc/commit/1e1e29d))
-
-### [1.0.2](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.3...v1.0.2) (2019-10-06)
-
-### Bug Fixes
-
--   add standard-version CHANGELOG ([1e1e29d](https://github.com/LonnyGomes/conventional-commits-poc/commit/1e1e29d))
-
-### [1.0.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.0.3...v1.0.1) (2019-10-06)
+## [1.1.6](https:/Users/carpelucem/code/repos/conventional-commits-poc-bare/compare/v1.1.5...v1.1.6) (2019-10-07)
