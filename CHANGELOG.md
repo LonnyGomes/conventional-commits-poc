@@ -1,5 +1,12 @@
 Sample Title
 
+## [1.2.3](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.2.2...v1.2.3) (2019-10-13)
+
+
+### Bug Fixes
+
+* and now with angular ([87fe1a2](https://github.com/LonnyGomes/conventional-commits-poc/commit/87fe1a2))
+
 ## [1.2.2](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.2.1...v1.2.2) (2019-10-13)
 
 ## [1.2.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.2.0...v1.2.1) (2019-10-13)
