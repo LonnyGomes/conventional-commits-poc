@@ -1,5 +1,12 @@
 Sample Title
 
+# [3.1.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.0.3...v3.1.0) (2019-10-14)
+
+
+### Code Refactoring
+
+* here we go with a refactor test ([1d8ba79](https://github.com/LonnyGomes/conventional-commits-poc/commit/1d8ba79)), closes [#8](https://github.com/LonnyGomes/conventional-commits-poc/issues/8)
+
 ## [3.0.3](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.0.2...v3.0.3) (2019-10-14)
 
 
