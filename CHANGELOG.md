@@ -1,5 +1,12 @@
 Sample Title
 
+## [3.2.3](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.2...v3.2.3) (2019-10-14)
+
+
+### Bug Fixes
+
+* here we go ([cbe007b](https://github.com/LonnyGomes/conventional-commits-poc/commit/cbe007b))
+
 ## [3.2.2](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.1...v3.2.2) (2019-10-14)
 
 
