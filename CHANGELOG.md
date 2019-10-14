@@ -1,5 +1,17 @@
 Sample Title
 
+## [2.0.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v2.0.0...v2.0.1) (2019-10-14)
+
+
+### Code Refactoring
+
+* changes EVERYTHING ([adbe305](https://github.com/LonnyGomes/conventional-commits-poc/commit/adbe305))
+
+
+### BREAKING CHANGES
+
+* breaks the build, #7
+
 # [2.0.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.4.0...v2.0.0) (2019-10-14)
 
 
