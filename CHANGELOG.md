@@ -1,5 +1,7 @@
 Sample Title
 
+## [3.2.5](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.4...v3.2.5) (2019-10-14)
+
 ## [3.2.4](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.3...v3.2.4) (2019-10-14)
 
 ## [3.2.3](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.2...v3.2.3) (2019-10-14)
