@@ -16,3 +16,5 @@
 // perf test
 // BREAKING CHANGE example
 // BREAKING CHANGE again
+// BREAKING CHANGE with docs and refactor
+// style test
