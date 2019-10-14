@@ -1,5 +1,17 @@
 Sample Title
 
+## [3.0.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.0.0...v3.0.1) (2019-10-14)
+
+
+### Code Refactoring
+
+* here is a test of refactoring ([ac7499b](https://github.com/LonnyGomes/conventional-commits-poc/commit/ac7499b))
+
+
+### BREAKING CHANGES
+
+* fix #7, here it is to break
+
 # [3.0.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v2.0.1...v3.0.0) (2019-10-14)
 
 
