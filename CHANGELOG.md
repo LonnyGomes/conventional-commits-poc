@@ -1,5 +1,12 @@
 Sample Title
 
+## [3.2.8](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.7...v3.2.8) (2019-10-14)
+
+
+### Bug Fixes
+
+* test again 2 ([ea58f20](https://github.com/LonnyGomes/conventional-commits-poc/commit/ea58f209659643f0db8544c0ddfd066972787dbc))
+
 ## [3.2.7](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.6...v3.2.7) (2019-10-14)
 
 
