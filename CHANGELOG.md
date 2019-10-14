@@ -1,5 +1,12 @@
 Sample Title
 
+## [3.2.6](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.5...v3.2.6) (2019-10-14)
+
+
+### Bug Fixes
+
+* test example with shareable commit ([b583edb](https://github.com/LonnyGomes/conventional-commits-poc/commit/b583edbac09799ef727d100fbf153cd291dad194))
+
 ## [3.2.5](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.4...v3.2.5) (2019-10-14)
 
 ## [3.2.4](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.3...v3.2.4) (2019-10-14)
