@@ -1,5 +1,12 @@
 Sample Title
 
+## [1.3.2](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.3.1...v1.3.2) (2019-10-14)
+
+
+### Performance Improvements
+
+* test with a perf change ([2ebf74e](https://github.com/LonnyGomes/conventional-commits-poc/commit/2ebf74e))
+
 ## [1.3.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.3.0...v1.3.1) (2019-10-14)
 
 # [1.3.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.2.3...v1.3.0) (2019-10-13)
