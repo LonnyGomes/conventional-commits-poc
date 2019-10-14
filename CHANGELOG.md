@@ -1,5 +1,17 @@
 Sample Title
 
+# [3.0.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v2.0.1...v3.0.0) (2019-10-14)
+
+
+### chore
+
+* break ([6f6d1e8](https://github.com/LonnyGomes/conventional-commits-poc/commit/6f6d1e8))
+
+
+### BREAKING CHANGES
+
+* bump version
+
 ## [2.0.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v2.0.0...v2.0.1) (2019-10-14)
 
 
