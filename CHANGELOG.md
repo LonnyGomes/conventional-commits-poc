@@ -1,5 +1,12 @@
 Sample Title
 
+## [3.2.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.0...v3.2.1) (2019-10-14)
+
+
+### Code Refactoring
+
+* **scope1:** test again ([f1810f2](https://github.com/LonnyGomes/conventional-commits-poc/commit/f1810f2)), closes [#9](https://github.com/LonnyGomes/conventional-commits-poc/issues/9)
+
 # [3.2.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.1.0...v3.2.0) (2019-10-14)
 
 
