@@ -1,5 +1,22 @@
 Sample Title
 
+## [3.0.2](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.0.1...v3.0.2) (2019-10-14)
+
+
+### Code Refactoring
+
+* **scope1:** this is a refactor test ([37f90ee](https://github.com/LonnyGomes/conventional-commits-poc/commit/37f90ee))
+
+
+### Styles
+
+* **css:** here is another style ([0057429](https://github.com/LonnyGomes/conventional-commits-poc/commit/0057429))
+
+
+### Tests
+
+* here we go ([447c389](https://github.com/LonnyGomes/conventional-commits-poc/commit/447c389)), closes [#1](https://github.com/LonnyGomes/conventional-commits-poc/issues/1)
+
 ## [3.0.1](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.0.0...v3.0.1) (2019-10-14)
 
 
