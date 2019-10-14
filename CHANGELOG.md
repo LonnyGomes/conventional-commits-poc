@@ -1,5 +1,17 @@
 Sample Title
 
+# [2.0.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.4.0...v2.0.0) (2019-10-14)
+
+
+### Features
+
+* this should be another breaking change ([f0cce5b](https://github.com/LonnyGomes/conventional-commits-poc/commit/f0cce5b))
+
+
+### BREAKING CHANGES
+
+* this should bump, fixes #4
+
 # [1.4.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.3.2...v1.4.0) (2019-10-14)
 
 
