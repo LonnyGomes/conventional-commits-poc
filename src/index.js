@@ -39,3 +39,4 @@
 // fix
 // fix again
 // style (minor test)
+// style (patch test)
