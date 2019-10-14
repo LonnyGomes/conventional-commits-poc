@@ -1,5 +1,12 @@
 Sample Title
 
+# [1.4.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.3.2...v1.4.0) (2019-10-14)
+
+
+### Features
+
+* breaking change example ([a3f0218](https://github.com/LonnyGomes/conventional-commits-poc/commit/a3f0218)), closes [#3](https://github.com/LonnyGomes/conventional-commits-poc/issues/3)
+
 ## [1.3.2](https://github.com/LonnyGomes/conventional-commits-poc/compare/v1.3.1...v1.3.2) (2019-10-14)
 
 
