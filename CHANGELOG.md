@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.9...v3.3.0) (2020-05-09)
+
+
+### Features
+
+* add release npm script ([0ff4f5f](https://github.com/LonnyGomes/conventional-commits-poc/commit/0ff4f5f6a3b1043fc0d6e83adc70e77e7bfbe5cd)), closes [#15](https://github.com/LonnyGomes/conventional-commits-poc/issues/15)
+
 ## [3.2.9](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.8...v3.2.9) (2020-05-09)
 
 
