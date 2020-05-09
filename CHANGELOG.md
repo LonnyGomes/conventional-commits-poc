@@ -1,3 +1,10 @@
+## [3.2.9](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.8...v3.2.9) (2020-05-09)
+
+
+### Bug Fixes
+
+* resolve issue with repo url ([8eb1259](https://github.com/LonnyGomes/conventional-commits-poc/commit/8eb12599d09464a660da0f083035c9153dc13915))
+
 Sample Title
 
 ## [3.2.8](https://github.com/LonnyGomes/conventional-commits-poc/compare/v3.2.7...v3.2.8) (2019-10-14)
