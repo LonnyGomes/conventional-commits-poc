@@ -4,7 +4,7 @@
   "description": "Testing conventional commits tooling",
   "main": "index.js",
   "dependencies": {
-    "semantic-release": "^17.0.7"
+    "semantic-release": "^17.2.3"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
